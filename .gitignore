@@ -1,0 +1,14 @@
+.venv
+.env
+
+data/*.csv
+
+# Ignore PyCharm settings
+.idea/
+
+.ipynb_checkpoints/
+*.pkl
+
+# Ignore compiled files
+__pycache__/
+*.pyc
